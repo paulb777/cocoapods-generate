@@ -1,0 +1,2 @@
+description: generates a workspace for a podspec with a single platform specific dependency
+args: 'Foo.podspec --local-sources="./"'
